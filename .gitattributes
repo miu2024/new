@@ -1,0 +1,6 @@
+1.pkl filter=lfs diff=lfs merge=lfs -text
+11.py filter=lfs diff=lfs merge=lfs -text
+bags.pkl filter=lfs diff=lfs merge=lfs -text
+e.xlsx filter=lfs diff=lfs merge=lfs -text
+11(1).py filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
